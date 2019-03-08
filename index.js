@@ -11,4 +11,5 @@ function theBeatlesPlay (musicians, instruments) {
     return allMusicians;
   }
 
+theBeatlesPlay;
   
