@@ -1,6 +1,11 @@
 // add solution here
 var array = [];
 
-function theBeatlesPlay (musicians, instruments) {
-  for (var i = 0; i < 100)
-}
+function theBeatlesPlay (musician, instrument) {
+  for (var i = 0; i < musicians.length; i++){
+    console.log(`${musicians} plays ${instrument}`)
+    }
+    return theBeatlesPlay;
+  }
+  
+  
