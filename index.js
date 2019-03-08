@@ -19,4 +19,5 @@ function johnLennonFacts () {
     moreFacts.push(facts[i] + "!!!");
     i++;
   }
+  return moreFacts;
 }
